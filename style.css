@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+.header {
+    background-color: #e7f2f4;
+    margin: auto;
+    width: 98%;
+    text-align: center;
+    padding: 100px;
+    padding-bottom: 300px;
+}
+.header p {
+    font-size: 30px;
+    color: #3946ff;
+}
+.header h1 {
+    font-weight: 46px;
+    color: #000709;
+}
+body {
+    background-color: white;
+}
+
+#kolko {
+    position: absolute;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+
+    display: none;
+}
