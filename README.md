@@ -2,4 +2,6 @@
 
 Example game:
 
-<img src="https://pp.userapi.com/c847219/v847219367/1d861d/AEQLbjSBcfQ.jpg" width="600">
+<img src="https://sun9-37.userapi.com/c851232/v851232299/1beb87/J2XEkiPZLLU.jpg" width="750">
+
+now 18.09 ver 2.0
